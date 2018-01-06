@@ -9,9 +9,4 @@
   <project name="Sohamlad7/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="lineage-15.1-64" />
   <project name="Sohamlad7/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github" revision="lineage-15.1-64" />
   <project name="Sohamlad7/android_vendor_motorola_cedric" path="vendor/motorola/cedric" remote="github" revision="lineage-15.1-64" />
-
-<!-- MSM8937 Projects -->
-  <project name="Sohamlad7/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8937" remote="github" revision="lineage-15.1-caf-8937" />
-  <project name="Sohamlad7/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8937" remote="github" revision="lineage-15.1-caf-8937" />
-  <project name="Sohamlad7/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8937" remote="github" revision="lineage-15.1-caf-8937" />
 </manifest>
