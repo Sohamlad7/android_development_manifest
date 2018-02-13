@@ -2,8 +2,8 @@
 <manifest>
 
 <!-- LineageOS Dependency Projects -->
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="staging/lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="staging/lineage-15.1" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 
 <!-- Moto G5 Cedric Projects -->
   <project name="Sohamlad7/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="lineage-15.1-64" />
