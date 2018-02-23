@@ -32,7 +32,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 To initialize your local repository using the LineageOS trees, use a command like this:
 (For other roms, please follow their own trees)
 
-    repo init -u git://github.com/LineageOS/android.git -b staging/lineage-15.1
+    repo init -u git://github.com/LineageOS/android.git -b lineage-15.1
 
 Then to to get the local manifests
 
