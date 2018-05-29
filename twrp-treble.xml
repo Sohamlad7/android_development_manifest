@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Moto G5 Cedric Projects -->
+  <project name="Sohamlad7/android_device_motorola_cedric" path="device/motorola/cedric" remote="github" revision="twrp-treble" />
+  <project name="Sohamlad7/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github" revision="twrp-treble" />
+</manifest>
