@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Omnirom Projects -->
+  <project name="vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="omnirom" revision="android-9.0" />
+  <project name="android_device_qcom_caf-sepolicy" path="device/qcom/sepolicy" remote="omnirom" revision="android-9.0" />
+  <project name="android_vendor_qcom_opensource_commonsys" path="vendor/qcom/opensource/commonsys" remote="omnirom" revision="android-9.0" />
+  <project name="android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="omnirom" revision="android-9.0" />
+  <project name="android_hardware_qcom_fm" path="hardware/qcom/fm" remote="omnirom" revision="android-9.0" />
+  <project name="android_packages_apps_SnapdragonCamera2" path="packages/apps/SnapdragonCamera2" remote="omnirom" revision="android-9.0" />
+  <project name="android_hardware_qcom_wlan-caf" path="hardware/qcom/wlan-caf" remote="omnirom" revision="android-9.0" />
+
+<!-- Moto G5 Cedric Projects -->
+  <project name="android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="omnirom" revision="android-9.0" />
+  <project name="android_device_motorola_cedric" path="device/motorola/cedric" remote="omnirom" revision="android-9.0" />
+  <project name="DonkeyCoyote/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="android-9.0" />
+
+<!-- Hals -->
+  <project name="android_hardware_qcom_display-caf-msm8996" path="hardware/qcom/display-caf-msm8996" remote="omnirom" revision="android-9.0" />
+  <project name="android_hardware_qcom_audio-caf-msm8996" path="hardware/qcom/audio-caf-msm8996" remote="omnirom" revision="android-9.0" />
+  <project name="android_hardware_qcom_media-caf-msm8996" path="hardware/qcom/media-caf-msm8996" remote="omnirom" revision="android-9.0" />
+</manifest>

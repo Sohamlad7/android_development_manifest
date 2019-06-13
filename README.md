@@ -72,3 +72,21 @@ Then to to get the local manifests
     And lastly move it to *YOUR ROM DIRECTORY*/.repo/local_manifest
 
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions.
+
+Getting Started (omnirom-9.0)
+---------------
+
+To get started with OmniROM, you'll need to get
+familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the OmniROM trees, use a command like this:
+
+    repo init -u git://github.com/omnirom/android.git -b android-9.0
+
+Then to sync up:
+
+    repo sync
+
+Then to build:
+
+     cd <source-dir>; . build/envsetup.sh; brunch <device_name>
