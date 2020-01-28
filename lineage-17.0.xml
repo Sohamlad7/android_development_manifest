@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+<!-- Remove ATV to avoid visual artifacts -->
+  <remove-project name="device/google/atv" />
+
 <!-- LineageOS Dependency Projects -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.0" />
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-17.0" />
